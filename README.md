@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sushant Patil</h1>
 <p align="left">
 </p>
-### Exploring
+<h3 align="left">Explorer:</h3>
 - 🌱 I’m currently exploring and learning new things in technology.
 
 <h3 align="left">Languages and Tools:</h3>

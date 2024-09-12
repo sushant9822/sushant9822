@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sushant Patil</h1>
-<h3 align="center">A passionate Devops Engineer from India</h3>
 <p align="left">
 </p>
 
